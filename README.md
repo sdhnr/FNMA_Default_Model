@@ -14,7 +14,7 @@ This repository houses a completed Data Science project focusing on economic ana
     - Incorporated state, county, city, and zip code information from HUD USER to enhance unemployment data for detailed analysis.
 
 ## Usage
- **Analysis**: Explore the EDA and analysis conducted in [Jupyter notebooks](https://github.com/sdhnr/FNMA_Default_Model/tree/main/notebooks) in the `notebooks/` directory.
+ **Analysis**: Explore the EDA and analysis conducted in [Jupyter notebooks](https://github.com/sdhnr/FNMA_Default_Model/tree/main) in the  directory.
 
 ## Next Steps
 The project data is cleaned, combined, and primed for advanced analysis, modeling, or specific data science tasks. Feel free to fork this repository to continue and expand the analysis as required.
