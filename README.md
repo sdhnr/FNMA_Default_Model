@@ -21,6 +21,5 @@ The project data is cleaned, combined, and primed for advanced analysis, modelin
 
 ## Contributions
 Contributions are encouraged! If you wish to contribute, fork this repository, make changes, and create a pull request. Your input and improvements are highly appreciated.
----
 
 Author : Said Huner 
